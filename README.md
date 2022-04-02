@@ -9,6 +9,7 @@ Tools for measuring energy consumption and/or CO2e from computational procedures
 1. [carbontracker](https://pypi.org/project/carbontracker/): A Python package for tracking and predicting the energy consumption and carbon footprint of training deep learning models as described in [Anthony et al. (2020)](https://arxiv.org/abs/2007.03051)
 2. [codecarbon](https://codecarbon.io/): A Python package that estimates the amount of carbon dioxide (CO2) produced by the cloud or personal computing resources used to execute code. It shows developers how they can lessen emissions by optimizing their code or by hosting their cloud infrastructure in geographical regions that use renewable energy sources.
 3. [ML CO2 Impact](https://mlco2.github.io/impact/#compute): In this web application, you choose your hardware, runtime and cloud provider to estimate the carbon impact of your model training. This calculator will give you 2 numbers: the raw carbon emissions produced and the approximate offset carbon emissions. The latter number depends on the grid used by the cloud provider. 
+4. [AWS Customer Carbon Footprint Tool](https://aws.amazon.com/aws-cost-management/aws-customer-carbon-footprint-tool/): Track, measure, review, and forecast the carbon emissions generated from your AWS usage
 
 ## Sustainable data science papers
 Academic and industry papers about the environmental / climate impact of data science, machine learning and related topics.
