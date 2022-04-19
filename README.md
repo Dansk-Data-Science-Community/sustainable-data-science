@@ -13,6 +13,7 @@ Tools for measuring energy consumption and/or CO2e from computational procedures
 3. [ML CO2 Impact](https://mlco2.github.io/impact/#compute): In this web application, you choose your hardware, runtime and cloud provider to estimate the carbon impact of your model training. This calculator will give you 2 numbers: the raw carbon emissions produced and the approximate offset carbon emissions. The latter number depends on the grid used by the cloud provider.
 4. [AWS Customer Carbon Footprint Tool](https://aws.amazon.com/aws-cost-management/aws-customer-carbon-footprint-tool/): Track, measure, review, and forecast the carbon emissions generated from your AWS usage
 5. [GCP Carbon Footprint](https://cloud.google.com/carbon-footprint): Measure, report, and reduce your cloud carbon emissions.
+6. [ThoughtWorks Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) - Free and open source cloud carbon emissions measurement and analysis tool from ThoughtWorks. 
 
 ## Sustainable data science papers
 
