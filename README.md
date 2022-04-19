@@ -46,6 +46,7 @@ Talks, presentations, debates etc. about sustainable data science and the enviro
 Podcast shows and episodes about sustainable data science, the environmental impact of machine learning and related topics.
 
 1. [Sustainable data science / GreenAI podcasts](https://open.spotify.com/playlist/2ojcoox4YyeAXxJaS2bufh?si=6b14fae7e0a5441f) - a Spotify playlists with some podcast episodes on the topic
+2. [Environment Variable](https://open.spotify.com/show/4gynCMPIRC49vcO0hA8PGi?si=a933761d221c42c3) - A show by The Green Software FOundation: "Each episode we discuss the latest news regarding how to reduce the emissions of software and how the industry is dealing with its own environmental impact"
 
 ## Sustainable data science news and blogs
 
