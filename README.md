@@ -33,6 +33,7 @@ Academic and industry papers about the environmental / climate impact of data sc
 10. [Impacts of software and its engineering on the carbon footprint of ICT](https://www.sciencedirect.com/science/article/abs/pii/S0195925514000687?via%3Dihub)
 11. [Energy Efficiency across Programming Languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/09/paperSLE.pdf)
 12. [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243)
+13. [Green Algorithms: Quantifying the carbon footprint of computation](https://arxiv.org/abs/2007.07610)
 
 ## Sustainable data science journals
 
