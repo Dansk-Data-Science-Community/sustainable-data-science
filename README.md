@@ -34,6 +34,7 @@ Academic and industry papers about the environmental / climate impact of data sc
 11. [Energy Efficiency across Programming Languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/09/paperSLE.pdf)
 12. [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243)
 13. [Green Algorithms: Quantifying the carbon footprint of computation](https://arxiv.org/abs/2007.07610)
+14. [Towards Climate Awareness in NLP Research](https://arxiv.org/pdf/2205.05071.pdf)
 
 ## Sustainable data science journals
 
