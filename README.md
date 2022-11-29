@@ -34,6 +34,7 @@ Academic and industry papers about the environmental / climate impact of data sc
 11. [Energy Efficiency across Programming Languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/09/paperSLE.pdf)
 12. [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243)
 13. [Green Algorithms: Quantifying the carbon footprint of computation](https://arxiv.org/abs/2007.07610)
+14. [MEASURING THE ENVIRONMENTAL IMPACTS OF ARTIFICIAL INTELLIGENCE COMPUTE AND APPLICATIONS](https://www.oecd-ilibrary.org/docserver/7babf571-en.pdf?expires=1669740588&id=id&accname=guest&checksum=73E109E3AEEA9B5438E0E483E40E61AA)
 
 ## Sustainable data science journals
 
@@ -72,6 +73,7 @@ News, blogs and other written material (excluding published papers) about the en
 14. [BEYOND SINGLE-DIMENSIONAL METRICS FOR DIGITAL SUSTAINABILITY](<https://greensoftware.foundation/articles/beyond-single-dimensional-metrics-for-digital-sustainability?ct=t(EMAIL_CAMPAIGN_1_6_2022_14_35_COPY_01)>)
 15. [GPS-UP: A BETTER METRIC FOR COMPARING SOFTWARE ENERGY EFFICIENCY](<https://greensoftware.foundation/articles/gps-up-a-better-metric-for-comparing-software-energy-efficiency?ct=t(EMAIL_CAMPAIGN_1_6_2022_14_35_COPY_01)>)
 16. [Towards a Fossil-Free Internet: The Fog of Enactment - Priority areas for research in digital sustainability](https://www.thegreenwebfoundation.org/publications/report-fog-of-enactment/)
+17. [Sustain - Sustainable AI in practice](https://algorithmwatch.org/en/wp-content/uploads/2022/06/SustAIn_Magazine_2022_EN.pdf)
 
 ## Carbon footprint reporting methodology in data science and software engineering
 
