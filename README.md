@@ -74,6 +74,7 @@ News, blogs and other written material (excluding published papers) about the en
 15. [GPS-UP: A BETTER METRIC FOR COMPARING SOFTWARE ENERGY EFFICIENCY](<https://greensoftware.foundation/articles/gps-up-a-better-metric-for-comparing-software-energy-efficiency?ct=t(EMAIL_CAMPAIGN_1_6_2022_14_35_COPY_01)>)
 16. [Towards a Fossil-Free Internet: The Fog of Enactment - Priority areas for research in digital sustainability](https://www.thegreenwebfoundation.org/publications/report-fog-of-enactment/)
 17. [Sustain - Sustainable AI in practice](https://algorithmwatch.org/en/wp-content/uploads/2022/06/SustAIn_Magazine_2022_EN.pdf)
+18. [How to estimate and reduce the carbon footprint of machine learning models](https://towardsdatascience.com/how-to-estimate-and-reduce-the-carbon-footprint-of-machine-learning-models-49f24510880)
 
 ## Carbon footprint reporting methodology in data science and software engineering
 
