@@ -6,9 +6,9 @@ Feel free to create an issue or make a PR if you want to contribute.
 
 ## Sustainable data science tools
 
-Tools for measuring energy consumption and/or CO2e from computational procedures
+Tools for measuring energy consumption and/or CO2e from compute
 
-1. [carbontracker](https://pypi.org/project/carbontracker/): A Python package for tracking and predicting the energy consumption and carbon footprint of training deep learning models as described in [Anthony et al. (2020)](https://arxiv.org/abs/2007.03051)
+1. [carbontracker](https://pypi.org/project/carbontracker/): A Python package that measures energy consumption and estimates carbon footprint of code as described in [Anthony et al. (2020)](https://arxiv.org/abs/2007.03051)
 2. [codecarbon](https://codecarbon.io/): A Python package that estimates the amount of carbon dioxide (CO2) produced by the cloud or personal computing resources used to execute code. It shows developers how they can lessen emissions by optimizing their code or by hosting their cloud infrastructure in geographical regions that use renewable energy sources. It is similar to carbontracker, but is actively maintained and developed as opposed to carbontracker which was last updated in 2021.
 3. [ML CO2 Impact](https://mlco2.github.io/impact/#compute): In this web application, you choose your hardware, runtime and cloud provider to estimate the carbon impact of your model training. This calculator will give you 2 numbers: the raw carbon emissions produced and the approximate offset carbon emissions. The latter number depends on the grid used by the cloud provider.
 4. [AWS Customer Carbon Footprint Tool](https://aws.amazon.com/aws-cost-management/aws-customer-carbon-footprint-tool/): Track, measure, review, and forecast the carbon emissions generated from your AWS usage
@@ -16,6 +16,10 @@ Tools for measuring energy consumption and/or CO2e from computational procedures
 6. [Azure Emissions Impact Dashboard](https://www.microsoft.com/en-us/sustainability/emissions-impact-dashboard?rtc=1&activetab=pivot_2:primaryr12): Estimate your carbon emissions related to using Microsoft cloud services—including Azure and Microsoft 365
 7. [ThoughtWorks Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/): Free and open source cloud carbon emissions measurement and analysis tool from ThoughtWorks. 
 8. [Green Algorithms calculator](http://www.green-algorithms.org/): Similar to ML CO2 Impact
+9. [Scaphandre](https://github.com/hubblo-org/scaphandre): "The goal of the project is to permit to any company or individual to measure the power consumption of its tech services and get this data in a convenient form, sending it through any monitoring or data analysis toolchain"
+10. [Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk) "The Carbon Aware SDK helps you build the carbon aware software solutions with the intelligence to use the greenest energy sources."
+11. [Kepler](https://sustainable-computing.io/design/metrics/) Kepler Exporter exposes energy consumption statistics from an application running in a Kubernetes cluster.
+12. [JoularJX](https://www.noureddine.org/research/joular/joularjx) "JoularJX is a Java-based agent for power monitoring at the source code level with support for modern Java versions and multi-OS to monitor power consumption of hardware and software."
 
 ## Sustainable data science papers
 
