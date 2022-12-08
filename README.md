@@ -84,3 +84,8 @@ News, blogs and other written material (excluding published papers) about the en
 
 1. [Carbon Footprint reporting methodology](https://cloud.google.com/carbon-footprint/docs/methodology)
 2. [Software Carbon Intensity (SCI) Specification](https://github.com/Green-Software-Foundation/software_carbon_intensity)
+
+## Relevant organizations
+1. [Green Software Foundation](https://greensoftware.foundation/)
+2. [Green Web Foundation](https://www.thegreenwebfoundation.org/)
+3. [Sustainable Digital Infrastructure Alliance](https://sdialliance.org/)
